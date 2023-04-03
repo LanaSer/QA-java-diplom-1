@@ -1,4 +1,4 @@
-# QA-java-diplom-1
+# QA java diplom 1
 Что нужно сделать
 - Покрой тестами классы Bun, Burger, Ingredient, IngredientType. 
 - Используй моки, стабы и параметризацию там, где нужно.
